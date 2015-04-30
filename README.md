@@ -1,6 +1,8 @@
 # Socianser
 ###Social media Sentiment Analyser
 
+[![Join the chat at https://gitter.im/mersalin/socianser](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mersalin/socianser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Socianser is a java based nlp project focuses on analysis the socialmedia contents and tagging with the accurate tone.
 
 
