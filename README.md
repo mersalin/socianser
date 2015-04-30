@@ -5,7 +5,7 @@ Socianser is a java based nlp project focuses on analysis the socialmedia conten
 
 
 
-image:https://travis-ci.org/mersalin/socianser.svg?branch=master["Build Status",link="https://travis-ci.org/mersalin/socianser"]
+[![Build Status](https://travis-ci.org/mersalin/socianser.svg?branch=master)](https://travis-ci.org/mersalin/socianser)
 
 ## Building
 
